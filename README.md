@@ -1,70 +1,155 @@
-# Getting Started with Create React App
+# AIT Connect
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A responsive React.js-based college website developed for Agni Institute of Technology that provides students and visitors with a centralized platform to explore academic programs, admissions, campus facilities, institutional information, and student resources through a modern and interactive web interface.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+# About
 
-### `npm start`
+AIT Connect is a frontend web application developed using React.js to represent the official digital presence of Agni Institute of Technology. The application offers a responsive and user-friendly interface for prospective students, current students, and visitors to access important institutional information. It features multiple interconnected pages, reusable components, dynamic routing, and an engaging UI to showcase academic programs, campus facilities, admission details, and various student services.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Features
 
-### `npm test`
+- Responsive Multi-Page College Website
+- Dynamic Navigation using React Router
+- Interactive Home Page Carousel
+- Course and Academic Program Showcase
+- About College Section
+- Vision and Mission Pages
+- Student Login and Registration Pages
+- Contact Information Page
+- Frequently Asked Questions (FAQ)
+- Careers Page
+- Rules and Regulations
+- Privacy Policy
+- Custom 404 Error Page
+- Modern Responsive User Interface
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+# Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Frontend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Libraries
 
-### `npm run eject`
+- React Router
+- React Icons
+- React Bootstrap
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Tools
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Git
+- GitHub
+- Visual Studio Code
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Project Structure
 
-## Learn More
+```text
+AIT-Connect/
+│
+├── public/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── hooks/
+│   ├── pages/
+│   ├── App.js
+│   └── index.js
+│
+├── package.json
+├── README.md
+└── .gitignore
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Installation and Setup
 
-### Code Splitting
+## 1. Clone the Repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+git clone https://github.com/your-username/AIT-Connect.git
+```
 
-### Analyzing the Bundle Size
+## 2. Navigate to Project Folder
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```bash
+cd AIT-Connect
+```
 
-### Making a Progressive Web App
+## 3. Install Dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```bash
+npm install
+```
 
-### Advanced Configuration
+## 4. Start the Development Server
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```bash
+npm start
+```
 
-### Deployment
+Open:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```text
+http://localhost:3000
+```
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Application Screens
+
+- Home Page
+- About Page
+- Courses Page
+- Student Login
+- Student Registration
+- Contact Page
+- FAQ Page
+- Careers Page
+- Rules & Regulations
+- Privacy Policy
+- 404 Error Page
+
+---
+
+# Future Enhancements
+
+- Student Dashboard
+- Faculty Portal
+- Online Admission System
+- Event Management
+- Placement Portal
+- Online Fee Payment
+- Attendance Management
+- Result Portal
+- Alumni Portal
+- Admin Dashboard
+
+---
+
+# Author
+
+## Oviya Lakshmi
+
+GitHub:
+
+https://github.com/oviya-lakshmi
+
+---
+
+# License
+
+This project is developed for educational and learning purposes.
