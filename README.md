@@ -1,6 +1,6 @@
 # AIT Connect
 
-A responsive React.js-based college website developed for Agni Institute of Technology that provides students and visitors with a centralized platform to explore academic programs, admissions, campus facilities, institutional information, and student resources through a modern and interactive web interface.
+A responsive React.js-based college website that provides students and visitors with a centralized platform to explore academic programs, admissions, campus facilities, institutional information, and student resources through a modern and interactive web interface.
 
 ---
 
